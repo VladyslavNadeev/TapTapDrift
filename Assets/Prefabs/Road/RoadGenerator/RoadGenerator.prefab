@@ -1,0 +1,88 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &5773804261715710587
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5773804261715710584}
+  - component: {fileID: 5773804261715710585}
+  m_Layer: 0
+  m_Name: RoadGenerator
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 0
+--- !u!4 &5773804261715710584
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5773804261715710587}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 75.17186, y: -32.679764, z: 26.006697}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &5773804261715710585
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5773804261715710587}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 35219f12a83aef246ba9fdb62fd8ac4f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  roads:
+  - prefab: {fileID: 4083677429892433404, guid: 663f3152a68a94647ab2d2833321e4d3, type: 3}
+    roadId: 0
+    offset: {x: 0, y: 0, z: 60}
+    hasPoint: 1
+  - prefab: {fileID: 8558716559544116080, guid: 6abba9ecd7803704aabd60e051f747d6, type: 3}
+    roadId: 0
+    offset: {x: 30, y: 0, z: 0}
+    hasPoint: 0
+  - prefab: {fileID: 4068255317397658003, guid: fb3bed2d92b326747bbeeb676aaea394, type: 3}
+    roadId: 2
+    offset: {x: -20, y: 0, z: 20}
+    hasPoint: 1
+  - prefab: {fileID: 8869690330761047490, guid: 6fcc9063756fcb344abbe0e24eef8479, type: 3}
+    roadId: 3
+    offset: {x: 20, y: 0, z: 20}
+    hasPoint: 1
+  - prefab: {fileID: 6090023280825719887, guid: 6fad8a98386e4904a9aa8127947565c4, type: 3}
+    roadId: 4
+    offset: {x: 20, y: 0, z: 20}
+    hasPoint: 1
+  - prefab: {fileID: 6090023280825719887, guid: 6fad8a98386e4904a9aa8127947565c4, type: 3}
+    roadId: 5
+    offset: {x: -20, y: 0, z: 20}
+    hasPoint: 1
+  - prefab: {fileID: 5257284861597919905, guid: 2462a4f4cd1276746a7f6f697fb5abcb, type: 3}
+    roadId: 6
+    offset: {x: -30, y: 0, z: 40}
+    hasPoint: 1
+  - prefab: {fileID: 7235846195240977282, guid: 6e77d9022a79fcf4abefef1020f9457c, type: 3}
+    roadId: 7
+    offset: {x: 30, y: 0, z: 40}
+    hasPoint: 1
+  - prefab: {fileID: 4083677429892433404, guid: 663f3152a68a94647ab2d2833321e4d3, type: 3}
+    roadId: 8
+    offset: {x: 0, y: 0, z: 120}
+    hasPoint: 0
+  - prefab: {fileID: 8122960145944219756, guid: 6abba9ecd7803704aabd60e051f747d6, type: 3}
+    roadId: 9
+    offset: {x: 60, y: 0, z: 0}
+    hasPoint: 0
+  _roadLength: 20
