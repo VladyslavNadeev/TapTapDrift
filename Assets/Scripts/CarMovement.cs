@@ -1,39 +1,36 @@
-using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
-using UnityEngine.UI;
+using UnityEngine.Serialization;
 
 public class CarMovement : MonoBehaviour
 {
-    [SerializeField] private Button _startGameButton;
-    
-    public static CarMovement instance;
+    [SerializeField] [FormerlySerializedAs("forwardSpeed")] private float _forwardSpeed;
+    [FormerlySerializedAs("turnSpeed")] [SerializeField] private float _turnSpeed;
+    [FormerlySerializedAs("sphereRB")] [SerializeField] private Rigidbody _sphereRB;
 
-    public Rigidbody sphereRB;
+    private bool _isGameOn;
 
-    public float forwardSpeed;
-    public float reverseSpeed;
-    public float turnSpeed;
+    public float TurnSpeed => _turnSpeed;
 
-    private bool _isGameOn = false;
-
-
-    void Start()
+    public void Init()
     {
-        if(instance == null)
-        {
-            instance = this;
-        }
-
-        sphereRB.transform.parent = null;
+        _sphereRB.transform.parent = null;
     }
 
+    public void StartMoving()
+    {
+        _isGameOn = true;
+    }
+    
+    public void EndMoving()
+    {
+        _isGameOn = false;
+    }
 
     void Update()
     {
         if (_isGameOn)
         {
-            transform.position = sphereRB.transform.position;
+            transform.position = _sphereRB.transform.position;
 
         }
     }
@@ -42,15 +39,7 @@ public class CarMovement : MonoBehaviour
     {
         if (_isGameOn)
         {
-            sphereRB.AddForce(transform.forward * forwardSpeed, ForceMode.Acceleration);
+            _sphereRB.AddForce(transform.forward * _forwardSpeed, ForceMode.Acceleration);
         }        
     }
-
-    public void OnGameOn()
-    {
-        _isGameOn = true;
-        _startGameButton.gameObject.SetActive(false);
-    }
-
-
 }

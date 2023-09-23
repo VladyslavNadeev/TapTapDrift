@@ -9,8 +9,8 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 7439626620682106121}
-  - component: {fileID: 6693033238540402229}
   - component: {fileID: 254146691550504542}
+  - component: {fileID: 4058285242996783558}
   m_Layer: 0
   m_Name: CircleRightRoadWithStraight
   m_TagString: Untagged
@@ -38,20 +38,6 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &6693033238540402229
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 5326346413266907359}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 84286d8411ec17a4ca027d197eda2127, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  _circleScoreText: {fileID: 0}
-  _startDriftButton: {fileID: 0}
 --- !u!65 &254146691550504542
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -65,6 +51,19 @@ BoxCollider:
   serializedVersion: 2
   m_Size: {x: 40, y: 5.108244, z: 60.673832}
   m_Center: {x: 0, y: 1.554122, z: -10.336916}
+--- !u!114 &4058285242996783558
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5326346413266907359}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 90ebef361a311c741a8d08ae70dfdcb9, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _driftCircleState: 1
 --- !u!1001 &323425228376916525
 PrefabInstance:
   m_ObjectHideFlags: 0
