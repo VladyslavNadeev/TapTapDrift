@@ -26,7 +26,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1356116854751693796}
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: -37.159645, y: -30.719982, z: -59.21321}
   m_LocalScale: {x: 0.75, y: 0.7, z: 0.75}
   m_ConstrainProportionsScale: 0
@@ -48,10 +48,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 70eb5b8620a4c8c46a145050f106b502, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _isGameOn: 0
-  sphereRB: {fileID: 1356116855578065097}
-  forwardSpeed: 175
-  turnSpeed: 165
+  _forwardSpeed: 175
+  _turnSpeed: 165
+  _sphereRB: {fileID: 1356116855578065097}
 --- !u!54 &1356116854751693795
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -144,7 +143,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 10303, guid: 0000000000000000f000000000000000, type: 0}
+  - {fileID: 2100000, guid: f3491ed7f3f66404597a86d98349a47d, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0

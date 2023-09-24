@@ -491,55 +491,55 @@
      <HintPath>C:\Program Files\Unity\Hub\Editor\2021.3.19f1\Editor\Data\Managed\UnityEngine\UnityEditor.UnityConnectModule.dll</HintPath>
      </Reference>
      <Reference Include="Zenject-usage">
-     <HintPath>C:\Users\ASUS\Desktop\HuntersAndMonsters\TapTapDrift\Assets\Plugins\Zenject\Source\Usage\Zenject-usage.dll</HintPath>
+     <HintPath>C:\Work\HuntersAndMonsters\TapTapDrift\Assets\Plugins\Zenject\Source\Usage\Zenject-usage.dll</HintPath>
      </Reference>
      <Reference Include="Zenject.ReflectionBaking.Mono.Cecil.Pdb">
-     <HintPath>C:\Users\ASUS\Desktop\HuntersAndMonsters\TapTapDrift\Assets\Plugins\Zenject\OptionalExtras\ReflectionBaking\Lib\Zenject.ReflectionBaking.Mono.Cecil.Pdb.dll</HintPath>
+     <HintPath>C:\Work\HuntersAndMonsters\TapTapDrift\Assets\Plugins\Zenject\OptionalExtras\ReflectionBaking\Lib\Zenject.ReflectionBaking.Mono.Cecil.Pdb.dll</HintPath>
      </Reference>
      <Reference Include="DemiLib">
-     <HintPath>C:\Users\ASUS\Desktop\HuntersAndMonsters\TapTapDrift\Assets\Plugins\SDK\ThirdParty\Demigiant\DemiLib\Core\DemiLib.dll</HintPath>
+     <HintPath>C:\Work\HuntersAndMonsters\TapTapDrift\Assets\Plugins\SDK\ThirdParty\Demigiant\DemiLib\Core\DemiLib.dll</HintPath>
      </Reference>
      <Reference Include="Unity.Burst.Cecil.Mdb">
-     <HintPath>C:\Users\ASUS\Desktop\HuntersAndMonsters\TapTapDrift\Library\PackageCache\com.unity.burst@1.8.2\Unity.Burst.CodeGen\Unity.Burst.Cecil.Mdb.dll</HintPath>
+     <HintPath>C:\Work\HuntersAndMonsters\TapTapDrift\Library\PackageCache\com.unity.burst@1.8.2\Unity.Burst.CodeGen\Unity.Burst.Cecil.Mdb.dll</HintPath>
      </Reference>
      <Reference Include="Zenject.ReflectionBaking.Mono.Cecil.Rocks">
-     <HintPath>C:\Users\ASUS\Desktop\HuntersAndMonsters\TapTapDrift\Assets\Plugins\Zenject\OptionalExtras\ReflectionBaking\Lib\Zenject.ReflectionBaking.Mono.Cecil.Rocks.dll</HintPath>
+     <HintPath>C:\Work\HuntersAndMonsters\TapTapDrift\Assets\Plugins\Zenject\OptionalExtras\ReflectionBaking\Lib\Zenject.ReflectionBaking.Mono.Cecil.Rocks.dll</HintPath>
      </Reference>
      <Reference Include="IdGen">
-     <HintPath>C:\Users\ASUS\Desktop\HuntersAndMonsters\TapTapDrift\Assets\Plugins\SDK\ThirdParty\Snowflake\IdGen.dll</HintPath>
+     <HintPath>C:\Work\HuntersAndMonsters\TapTapDrift\Assets\Plugins\SDK\ThirdParty\Snowflake\IdGen.dll</HintPath>
      </Reference>
      <Reference Include="Unity.Burst.Cecil.Pdb">
-     <HintPath>C:\Users\ASUS\Desktop\HuntersAndMonsters\TapTapDrift\Library\PackageCache\com.unity.burst@1.8.2\Unity.Burst.CodeGen\Unity.Burst.Cecil.Pdb.dll</HintPath>
+     <HintPath>C:\Work\HuntersAndMonsters\TapTapDrift\Library\PackageCache\com.unity.burst@1.8.2\Unity.Burst.CodeGen\Unity.Burst.Cecil.Pdb.dll</HintPath>
      </Reference>
      <Reference Include="Unity.Burst.Cecil">
-     <HintPath>C:\Users\ASUS\Desktop\HuntersAndMonsters\TapTapDrift\Library\PackageCache\com.unity.burst@1.8.2\Unity.Burst.CodeGen\Unity.Burst.Cecil.dll</HintPath>
+     <HintPath>C:\Work\HuntersAndMonsters\TapTapDrift\Library\PackageCache\com.unity.burst@1.8.2\Unity.Burst.CodeGen\Unity.Burst.Cecil.dll</HintPath>
      </Reference>
      <Reference Include="Unity.Burst.Cecil.Rocks">
-     <HintPath>C:\Users\ASUS\Desktop\HuntersAndMonsters\TapTapDrift\Library\PackageCache\com.unity.burst@1.8.2\Unity.Burst.CodeGen\Unity.Burst.Cecil.Rocks.dll</HintPath>
+     <HintPath>C:\Work\HuntersAndMonsters\TapTapDrift\Library\PackageCache\com.unity.burst@1.8.2\Unity.Burst.CodeGen\Unity.Burst.Cecil.Rocks.dll</HintPath>
      </Reference>
      <Reference Include="DOTween">
-     <HintPath>C:\Users\ASUS\Desktop\HuntersAndMonsters\TapTapDrift\Assets\Plugins\SDK\ThirdParty\Demigiant\DOTween\DOTween.dll</HintPath>
+     <HintPath>C:\Work\HuntersAndMonsters\TapTapDrift\Assets\Plugins\SDK\ThirdParty\Demigiant\DOTween\DOTween.dll</HintPath>
      </Reference>
      <Reference Include="Unity.VisualScripting.Antlr3.Runtime">
-     <HintPath>C:\Users\ASUS\Desktop\HuntersAndMonsters\TapTapDrift\Library\PackageCache\com.unity.visualscripting@1.8.0\Runtime\VisualScripting.Flow\Dependencies\NCalc\Unity.VisualScripting.Antlr3.Runtime.dll</HintPath>
+     <HintPath>C:\Work\HuntersAndMonsters\TapTapDrift\Library\PackageCache\com.unity.visualscripting@1.8.0\Runtime\VisualScripting.Flow\Dependencies\NCalc\Unity.VisualScripting.Antlr3.Runtime.dll</HintPath>
      </Reference>
      <Reference Include="Zenject.ReflectionBaking.Mono.Cecil.Mdb">
-     <HintPath>C:\Users\ASUS\Desktop\HuntersAndMonsters\TapTapDrift\Assets\Plugins\Zenject\OptionalExtras\ReflectionBaking\Lib\Zenject.ReflectionBaking.Mono.Cecil.Mdb.dll</HintPath>
+     <HintPath>C:\Work\HuntersAndMonsters\TapTapDrift\Assets\Plugins\Zenject\OptionalExtras\ReflectionBaking\Lib\Zenject.ReflectionBaking.Mono.Cecil.Mdb.dll</HintPath>
      </Reference>
      <Reference Include="DOTween46">
-     <HintPath>C:\Users\ASUS\Desktop\HuntersAndMonsters\TapTapDrift\Assets\Plugins\SDK\ThirdParty\Demigiant\DOTween\DOTween46.dll</HintPath>
+     <HintPath>C:\Work\HuntersAndMonsters\TapTapDrift\Assets\Plugins\SDK\ThirdParty\Demigiant\DOTween\DOTween46.dll</HintPath>
      </Reference>
      <Reference Include="DOTween43">
-     <HintPath>C:\Users\ASUS\Desktop\HuntersAndMonsters\TapTapDrift\Assets\Plugins\SDK\ThirdParty\Demigiant\DOTween\DOTween43.dll</HintPath>
+     <HintPath>C:\Work\HuntersAndMonsters\TapTapDrift\Assets\Plugins\SDK\ThirdParty\Demigiant\DOTween\DOTween43.dll</HintPath>
      </Reference>
      <Reference Include="DOTweenPro">
-     <HintPath>C:\Users\ASUS\Desktop\HuntersAndMonsters\TapTapDrift\Assets\Plugins\SDK\ThirdParty\Demigiant\DOTweenPro\DOTweenPro.dll</HintPath>
+     <HintPath>C:\Work\HuntersAndMonsters\TapTapDrift\Assets\Plugins\SDK\ThirdParty\Demigiant\DOTweenPro\DOTweenPro.dll</HintPath>
      </Reference>
      <Reference Include="DOTween50">
-     <HintPath>C:\Users\ASUS\Desktop\HuntersAndMonsters\TapTapDrift\Assets\Plugins\SDK\ThirdParty\Demigiant\DOTween\DOTween50.dll</HintPath>
+     <HintPath>C:\Work\HuntersAndMonsters\TapTapDrift\Assets\Plugins\SDK\ThirdParty\Demigiant\DOTween\DOTween50.dll</HintPath>
      </Reference>
      <Reference Include="Zenject.ReflectionBaking.Mono.Cecil">
-     <HintPath>C:\Users\ASUS\Desktop\HuntersAndMonsters\TapTapDrift\Assets\Plugins\Zenject\OptionalExtras\ReflectionBaking\Lib\Zenject.ReflectionBaking.Mono.Cecil.dll</HintPath>
+     <HintPath>C:\Work\HuntersAndMonsters\TapTapDrift\Assets\Plugins\Zenject\OptionalExtras\ReflectionBaking\Lib\Zenject.ReflectionBaking.Mono.Cecil.dll</HintPath>
      </Reference>
      <Reference Include="UnityEditor.iOS.Extensions.Xcode">
      <HintPath>C:\Program Files\Unity\Hub\Editor\2021.3.19f1\Editor\Data\PlaybackEngines\iOSSupport\UnityEditor.iOS.Extensions.Xcode.dll</HintPath>
@@ -920,109 +920,109 @@
      <HintPath>C:\Program Files\Unity\Hub\Editor\2021.3.19f1\Editor\Data\NetStandard\compat\2.1.0\shims\netfx\System.Xml.Serialization.dll</HintPath>
      </Reference>
      <Reference Include="Unity.VisualScripting.Flow.Editor">
-     <HintPath>C:\Users\ASUS\Desktop\HuntersAndMonsters\TapTapDrift\Library\ScriptAssemblies\Unity.VisualScripting.Flow.Editor.dll</HintPath>
+     <HintPath>C:\Work\HuntersAndMonsters\TapTapDrift\Library\ScriptAssemblies\Unity.VisualScripting.Flow.Editor.dll</HintPath>
      </Reference>
      <Reference Include="Unity.VSCode.Editor">
-     <HintPath>C:\Users\ASUS\Desktop\HuntersAndMonsters\TapTapDrift\Library\ScriptAssemblies\Unity.VSCode.Editor.dll</HintPath>
+     <HintPath>C:\Work\HuntersAndMonsters\TapTapDrift\Library\ScriptAssemblies\Unity.VSCode.Editor.dll</HintPath>
      </Reference>
      <Reference Include="Unity.RenderPipelines.Universal.Shaders">
-     <HintPath>C:\Users\ASUS\Desktop\HuntersAndMonsters\TapTapDrift\Library\ScriptAssemblies\Unity.RenderPipelines.Universal.Shaders.dll</HintPath>
+     <HintPath>C:\Work\HuntersAndMonsters\TapTapDrift\Library\ScriptAssemblies\Unity.RenderPipelines.Universal.Shaders.dll</HintPath>
      </Reference>
      <Reference Include="Unity.RenderPipelines.Universal.Runtime">
-     <HintPath>C:\Users\ASUS\Desktop\HuntersAndMonsters\TapTapDrift\Library\ScriptAssemblies\Unity.RenderPipelines.Universal.Runtime.dll</HintPath>
+     <HintPath>C:\Work\HuntersAndMonsters\TapTapDrift\Library\ScriptAssemblies\Unity.RenderPipelines.Universal.Runtime.dll</HintPath>
      </Reference>
      <Reference Include="PPv2URPConverters">
-     <HintPath>C:\Users\ASUS\Desktop\HuntersAndMonsters\TapTapDrift\Library\ScriptAssemblies\PPv2URPConverters.dll</HintPath>
+     <HintPath>C:\Work\HuntersAndMonsters\TapTapDrift\Library\ScriptAssemblies\PPv2URPConverters.dll</HintPath>
      </Reference>
      <Reference Include="Unity.TextMeshPro.Editor">
-     <HintPath>C:\Users\ASUS\Desktop\HuntersAndMonsters\TapTapDrift\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll</HintPath>
+     <HintPath>C:\Work\HuntersAndMonsters\TapTapDrift\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll</HintPath>
      </Reference>
      <Reference Include="Unity.VisualStudio.Editor">
-     <HintPath>C:\Users\ASUS\Desktop\HuntersAndMonsters\TapTapDrift\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll</HintPath>
+     <HintPath>C:\Work\HuntersAndMonsters\TapTapDrift\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll</HintPath>
      </Reference>
      <Reference Include="Unity.Timeline">
-     <HintPath>C:\Users\ASUS\Desktop\HuntersAndMonsters\TapTapDrift\Library\ScriptAssemblies\Unity.Timeline.dll</HintPath>
+     <HintPath>C:\Work\HuntersAndMonsters\TapTapDrift\Library\ScriptAssemblies\Unity.Timeline.dll</HintPath>
      </Reference>
      <Reference Include="Unity.VisualScripting.Core.Editor">
-     <HintPath>C:\Users\ASUS\Desktop\HuntersAndMonsters\TapTapDrift\Library\ScriptAssemblies\Unity.VisualScripting.Core.Editor.dll</HintPath>
+     <HintPath>C:\Work\HuntersAndMonsters\TapTapDrift\Library\ScriptAssemblies\Unity.VisualScripting.Core.Editor.dll</HintPath>
      </Reference>
      <Reference Include="Unity.TextMeshPro">
-     <HintPath>C:\Users\ASUS\Desktop\HuntersAndMonsters\TapTapDrift\Library\ScriptAssemblies\Unity.TextMeshPro.dll</HintPath>
+     <HintPath>C:\Work\HuntersAndMonsters\TapTapDrift\Library\ScriptAssemblies\Unity.TextMeshPro.dll</HintPath>
      </Reference>
      <Reference Include="Unity.VisualScripting.State.Editor">
-     <HintPath>C:\Users\ASUS\Desktop\HuntersAndMonsters\TapTapDrift\Library\ScriptAssemblies\Unity.VisualScripting.State.Editor.dll</HintPath>
+     <HintPath>C:\Work\HuntersAndMonsters\TapTapDrift\Library\ScriptAssemblies\Unity.VisualScripting.State.Editor.dll</HintPath>
      </Reference>
      <Reference Include="Unity.Burst.Editor">
-     <HintPath>C:\Users\ASUS\Desktop\HuntersAndMonsters\TapTapDrift\Library\ScriptAssemblies\Unity.Burst.Editor.dll</HintPath>
+     <HintPath>C:\Work\HuntersAndMonsters\TapTapDrift\Library\ScriptAssemblies\Unity.Burst.Editor.dll</HintPath>
      </Reference>
      <Reference Include="Unity.Searcher.Editor">
-     <HintPath>C:\Users\ASUS\Desktop\HuntersAndMonsters\TapTapDrift\Library\ScriptAssemblies\Unity.Searcher.Editor.dll</HintPath>
+     <HintPath>C:\Work\HuntersAndMonsters\TapTapDrift\Library\ScriptAssemblies\Unity.Searcher.Editor.dll</HintPath>
      </Reference>
      <Reference Include="Unity.VisualScripting.SettingsProvider.Editor">
-     <HintPath>C:\Users\ASUS\Desktop\HuntersAndMonsters\TapTapDrift\Library\ScriptAssemblies\Unity.VisualScripting.SettingsProvider.Editor.dll</HintPath>
+     <HintPath>C:\Work\HuntersAndMonsters\TapTapDrift\Library\ScriptAssemblies\Unity.VisualScripting.SettingsProvider.Editor.dll</HintPath>
      </Reference>
      <Reference Include="UnityEditor.UI">
-     <HintPath>C:\Users\ASUS\Desktop\HuntersAndMonsters\TapTapDrift\Library\ScriptAssemblies\UnityEditor.UI.dll</HintPath>
+     <HintPath>C:\Work\HuntersAndMonsters\TapTapDrift\Library\ScriptAssemblies\UnityEditor.UI.dll</HintPath>
      </Reference>
      <Reference Include="Unity.Rider.Editor">
-     <HintPath>C:\Users\ASUS\Desktop\HuntersAndMonsters\TapTapDrift\Library\ScriptAssemblies\Unity.Rider.Editor.dll</HintPath>
+     <HintPath>C:\Work\HuntersAndMonsters\TapTapDrift\Library\ScriptAssemblies\Unity.Rider.Editor.dll</HintPath>
      </Reference>
      <Reference Include="Unity.RenderPipelines.Core.ShaderLibrary">
-     <HintPath>C:\Users\ASUS\Desktop\HuntersAndMonsters\TapTapDrift\Library\ScriptAssemblies\Unity.RenderPipelines.Core.ShaderLibrary.dll</HintPath>
+     <HintPath>C:\Work\HuntersAndMonsters\TapTapDrift\Library\ScriptAssemblies\Unity.RenderPipelines.Core.ShaderLibrary.dll</HintPath>
      </Reference>
      <Reference Include="UnityEngine.UI">
-     <HintPath>C:\Users\ASUS\Desktop\HuntersAndMonsters\TapTapDrift\Library\ScriptAssemblies\UnityEngine.UI.dll</HintPath>
+     <HintPath>C:\Work\HuntersAndMonsters\TapTapDrift\Library\ScriptAssemblies\UnityEngine.UI.dll</HintPath>
      </Reference>
      <Reference Include="Unity.RenderPipelines.Core.Runtime">
-     <HintPath>C:\Users\ASUS\Desktop\HuntersAndMonsters\TapTapDrift\Library\ScriptAssemblies\Unity.RenderPipelines.Core.Runtime.dll</HintPath>
+     <HintPath>C:\Work\HuntersAndMonsters\TapTapDrift\Library\ScriptAssemblies\Unity.RenderPipelines.Core.Runtime.dll</HintPath>
      </Reference>
      <Reference Include="Unity.VisualScripting.Flow">
-     <HintPath>C:\Users\ASUS\Desktop\HuntersAndMonsters\TapTapDrift\Library\ScriptAssemblies\Unity.VisualScripting.Flow.dll</HintPath>
+     <HintPath>C:\Work\HuntersAndMonsters\TapTapDrift\Library\ScriptAssemblies\Unity.VisualScripting.Flow.dll</HintPath>
      </Reference>
      <Reference Include="Unity.VisualScripting.Core">
-     <HintPath>C:\Users\ASUS\Desktop\HuntersAndMonsters\TapTapDrift\Library\ScriptAssemblies\Unity.VisualScripting.Core.dll</HintPath>
+     <HintPath>C:\Work\HuntersAndMonsters\TapTapDrift\Library\ScriptAssemblies\Unity.VisualScripting.Core.dll</HintPath>
      </Reference>
      <Reference Include="Unity.PlasticSCM.Editor">
-     <HintPath>C:\Users\ASUS\Desktop\HuntersAndMonsters\TapTapDrift\Library\ScriptAssemblies\Unity.PlasticSCM.Editor.dll</HintPath>
+     <HintPath>C:\Work\HuntersAndMonsters\TapTapDrift\Library\ScriptAssemblies\Unity.PlasticSCM.Editor.dll</HintPath>
      </Reference>
      <Reference Include="Unity.Mathematics">
-     <HintPath>C:\Users\ASUS\Desktop\HuntersAndMonsters\TapTapDrift\Library\ScriptAssemblies\Unity.Mathematics.dll</HintPath>
+     <HintPath>C:\Work\HuntersAndMonsters\TapTapDrift\Library\ScriptAssemblies\Unity.Mathematics.dll</HintPath>
      </Reference>
      <Reference Include="Unity.ShaderGraph.Editor">
-     <HintPath>C:\Users\ASUS\Desktop\HuntersAndMonsters\TapTapDrift\Library\ScriptAssemblies\Unity.ShaderGraph.Editor.dll</HintPath>
+     <HintPath>C:\Work\HuntersAndMonsters\TapTapDrift\Library\ScriptAssemblies\Unity.ShaderGraph.Editor.dll</HintPath>
      </Reference>
      <Reference Include="Cinemachine">
-     <HintPath>C:\Users\ASUS\Desktop\HuntersAndMonsters\TapTapDrift\Library\ScriptAssemblies\Cinemachine.dll</HintPath>
+     <HintPath>C:\Work\HuntersAndMonsters\TapTapDrift\Library\ScriptAssemblies\Cinemachine.dll</HintPath>
      </Reference>
      <Reference Include="Unity.Burst">
-     <HintPath>C:\Users\ASUS\Desktop\HuntersAndMonsters\TapTapDrift\Library\ScriptAssemblies\Unity.Burst.dll</HintPath>
+     <HintPath>C:\Work\HuntersAndMonsters\TapTapDrift\Library\ScriptAssemblies\Unity.Burst.dll</HintPath>
      </Reference>
      <Reference Include="com.unity.cinemachine.editor">
-     <HintPath>C:\Users\ASUS\Desktop\HuntersAndMonsters\TapTapDrift\Library\ScriptAssemblies\com.unity.cinemachine.editor.dll</HintPath>
+     <HintPath>C:\Work\HuntersAndMonsters\TapTapDrift\Library\ScriptAssemblies\com.unity.cinemachine.editor.dll</HintPath>
      </Reference>
      <Reference Include="Unity.RenderPipelines.Universal.Editor">
-     <HintPath>C:\Users\ASUS\Desktop\HuntersAndMonsters\TapTapDrift\Library\ScriptAssemblies\Unity.RenderPipelines.Universal.Editor.dll</HintPath>
+     <HintPath>C:\Work\HuntersAndMonsters\TapTapDrift\Library\ScriptAssemblies\Unity.RenderPipelines.Universal.Editor.dll</HintPath>
      </Reference>
      <Reference Include="Unity.VisualScripting.Shared.Editor">
-     <HintPath>C:\Users\ASUS\Desktop\HuntersAndMonsters\TapTapDrift\Library\ScriptAssemblies\Unity.VisualScripting.Shared.Editor.dll</HintPath>
+     <HintPath>C:\Work\HuntersAndMonsters\TapTapDrift\Library\ScriptAssemblies\Unity.VisualScripting.Shared.Editor.dll</HintPath>
      </Reference>
      <Reference Include="Unity.RenderPipeline.Universal.ShaderLibrary">
-     <HintPath>C:\Users\ASUS\Desktop\HuntersAndMonsters\TapTapDrift\Library\ScriptAssemblies\Unity.RenderPipeline.Universal.ShaderLibrary.dll</HintPath>
+     <HintPath>C:\Work\HuntersAndMonsters\TapTapDrift\Library\ScriptAssemblies\Unity.RenderPipeline.Universal.ShaderLibrary.dll</HintPath>
      </Reference>
      <Reference Include="Unity.Timeline.Editor">
-     <HintPath>C:\Users\ASUS\Desktop\HuntersAndMonsters\TapTapDrift\Library\ScriptAssemblies\Unity.Timeline.Editor.dll</HintPath>
+     <HintPath>C:\Work\HuntersAndMonsters\TapTapDrift\Library\ScriptAssemblies\Unity.Timeline.Editor.dll</HintPath>
      </Reference>
      <Reference Include="Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary">
-     <HintPath>C:\Users\ASUS\Desktop\HuntersAndMonsters\TapTapDrift\Library\ScriptAssemblies\Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.dll</HintPath>
+     <HintPath>C:\Work\HuntersAndMonsters\TapTapDrift\Library\ScriptAssemblies\Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.dll</HintPath>
      </Reference>
      <Reference Include="Unity.Mathematics.Editor">
-     <HintPath>C:\Users\ASUS\Desktop\HuntersAndMonsters\TapTapDrift\Library\ScriptAssemblies\Unity.Mathematics.Editor.dll</HintPath>
+     <HintPath>C:\Work\HuntersAndMonsters\TapTapDrift\Library\ScriptAssemblies\Unity.Mathematics.Editor.dll</HintPath>
      </Reference>
      <Reference Include="Unity.RenderPipelines.Core.Editor">
-     <HintPath>C:\Users\ASUS\Desktop\HuntersAndMonsters\TapTapDrift\Library\ScriptAssemblies\Unity.RenderPipelines.Core.Editor.dll</HintPath>
+     <HintPath>C:\Work\HuntersAndMonsters\TapTapDrift\Library\ScriptAssemblies\Unity.RenderPipelines.Core.Editor.dll</HintPath>
      </Reference>
      <Reference Include="Unity.VisualScripting.State">
-     <HintPath>C:\Users\ASUS\Desktop\HuntersAndMonsters\TapTapDrift\Library\ScriptAssemblies\Unity.VisualScripting.State.dll</HintPath>
+     <HintPath>C:\Work\HuntersAndMonsters\TapTapDrift\Library\ScriptAssemblies\Unity.VisualScripting.State.dll</HintPath>
      </Reference>
   </ItemGroup>
   <ItemGroup>

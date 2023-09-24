@@ -41,7 +41,10 @@ namespace Infrastructure.StateMachine.Game.States
         public void Exit()
         {
             Object.Destroy(_startupHud);
-            _gameHud.SetActive(true);
+            if (_gameHud != null)
+            {
+                _gameHud.SetActive(true);
+            }
             _carMovement.StartMoving();
         }
 
@@ -67,13 +70,15 @@ namespace Infrastructure.StateMachine.Game.States
                mainCar.GetComponent<CarMovement>(),
                uiStartDriftButton));
 
-           Init();
            _gameHud.SetActive(false);
            _startupHud = _gameFactory.CreateStartupHud();
            _looseWindow = _gameFactory.CreateLooseWindow();
            _looseWindow.SetActive(false);
            _winWindow = _gameFactory.CreateWinWindow();
            _winWindow.SetActive(false);
+           
+           Init();
+           
            _loadingCurtain.Hide();
         }
         

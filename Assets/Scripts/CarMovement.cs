@@ -24,6 +24,7 @@ public class CarMovement : MonoBehaviour
     public void EndMoving()
     {
         _isGameOn = false;
+        _sphereRB.gameObject.SetActive(false);
     }
 
     void Update()
@@ -31,7 +32,6 @@ public class CarMovement : MonoBehaviour
         if (_isGameOn)
         {
             transform.position = _sphereRB.transform.position;
-
         }
     }
 
